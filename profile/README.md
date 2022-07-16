@@ -10,7 +10,7 @@ Yes, we are. We're keeping our organization **open-source project for everyone.*
   - **[C#](https://microsoft.com):** We are building software for everyone use in your own platform.
   - **[HTML, CSS, JS](https://html.spec.whatwg.org/):** We are building website publicly to everyone.
   - **[Java](https://java.net):** As we making minecraft servers and software and more.
-  - **[Rust](https://rust-lang.org):** We are building amazing projecr made of rust other programming language to complete projects. A language empowering everyone to build reliable and efficient software.
+  - **[Rust](https://rust-lang.org):** We are building amazing project made of rust other programming language to complete projects. A language empowering everyone to build reliable and efficient software.
   - **[Ruby](https://ruby-lang.org):** A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
 - **Programs and other softwares:** These are full list of all software worldwide.
   - **[PocketMine-MP](https://pmmp.io):** A server software for Minecraft: Bedrock Edition in PHP.
