@@ -16,9 +16,6 @@ Yes, we are. We're keeping our organization **open-source project for everyone.*
   - **[Visual Studio](https://visualstudio.microsoft.com/):** Microsoft Visual Studio is an integrated development environment from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
   - **[PHPStorm](https://www.jetbrains.com/phpstorm/):** PhpStorm is renowned for its zero-configuration Visual Debugger, providing extraordinary insight into what goes on in your application at every step.
   - **[Bukkit](https://bukkit.org):** Bukkit is a free, open-source, software that provides the means to extend the popular Minecraft multiplayer server.
-- **Popular Repositories:** These are popular repository found in our organization.
-  - **[ProfanityFilter](https://github.com/ReinfyTeam/ProfanityFilter):** The best profanity filter for chat with api for plugin developers!
-
 ![Open Source Organization](https://static1.textcraft.net/data1/0/d/0d647b42813da6e44cb4c78a443a893af767a76bda39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd80709960225eed5e12908e1c36336da07efd5.png)
 
 #### Starting new projects :thinking:
@@ -34,5 +31,4 @@ Come and **contribute our large projects**!
 - **[Discord Server](https://discord.gg/7u7qKsvSxg):** Which you can get support from us.
 - **[Documentation](https://docs.reinfy.tk/):** View our official documentary.
 - **[Official Website](https://www.reinfy.tk/):** Public Website Figure.
-
-
+- **[PocketMine Plugins](https://github.com/ReinfyTeam/ReinfyTeam/blob/main/pocketmine.md):** List of our PocketMine-MP Public Plugins.
