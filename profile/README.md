@@ -31,4 +31,4 @@ Come and **contribute our large projects**!
 - **[Discord Server](https://discord.gg/7u7qKsvSxg):** Which you can get support from us.
 - **[Documentation](https://docs.reinfy.tk/):** View our official documentary.
 - **[Official Website](https://www.reinfy.tk/):** Public Website Figure.
-- **[PocketMine Plugins](https://github.com/ReinfyTeam/ReinfyTeam/blob/main/pocketmine.md):** List of our PocketMine-MP Public Plugins.
+- **[PocketMine Plugins](https://github.com/ReinfyTeam/.github/blob/main/pocketmine.md):** List of our PocketMine-MP Public Plugins.
