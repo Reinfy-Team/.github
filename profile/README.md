@@ -29,3 +29,10 @@ Come and **contribute our large projects**!
 - Building more amazing projects for open source community!
 
 [![@Reinfy](https://static1.textcraft.net/data1/b/0/b0acd68b5137e72b72122ee4e4528d5b8d33f6ecda39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd80709cb0a36c63b6e499fbc56855a4c369ee2.png)](https://github.com/Reinfy/)
+
+#### Navigate Links
+- **[Discord Server](https://discord.gg/7u7qKsvSxg):** Which you can get support from us.
+- **[Documentation](https://docs.reinfy.tk/):** View our official documentary.
+- **[Official Website](https://www.reinfy.tk/):** Public Website Figure.
+
+
